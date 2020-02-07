@@ -1,15 +1,15 @@
 {
   "pageSize": 10,
   "model": [
-    "https://github.com/pawelddev/endpoints/images/21.jpg",
-    "https://github.com/pawelddev/endpoints/images/22.jpg",
-    "https://github.com/pawelddev/endpoints/images/23.jpg",
-    "https://github.com/pawelddev/endpoints/images/24.jpg",
-    "https://github.com/pawelddev/endpoints/images/25.jpg",
-    "https://github.com/pawelddev/endpoints/images/26.jpg",
-    "https://github.com/pawelddev/endpoints/images/27.jpg",
-    "https://github.com/pawelddev/endpoints/images/28.jpg",
-    "https://github.com/pawelddev/endpoints/images/29.jpg",
-    "https://github.com/pawelddev/endpoints/images/30.jpg"
+    "https://github.com/pawelddev/endpoints/raw/master/paging/images//21.jpg",
+    "https://github.com/pawelddev/endpoints/raw/master/paging/images//22.jpg",
+    "https://github.com/pawelddev/endpoints/raw/master/paging/images//23.jpg",
+    "https://github.com/pawelddev/endpoints/raw/master/paging/images//24.jpg",
+    "https://github.com/pawelddev/endpoints/raw/master/paging/images//25.jpg",
+    "https://github.com/pawelddev/endpoints/raw/master/paging/images//26.jpg",
+    "https://github.com/pawelddev/endpoints/raw/master/paging/images//27.jpg",
+    "https://github.com/pawelddev/endpoints/raw/master/paging/images//28.jpg",
+    "https://github.com/pawelddev/endpoints/raw/master/paging/images//29.jpg",
+    "https://github.com/pawelddev/endpoints/raw/master/paging/images//30.jpg"
   ]
 }
