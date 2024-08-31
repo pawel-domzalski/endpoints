@@ -1,5 +1,17 @@
 {
   "data": {
+    "categories": [
+      "Business",
+      "",
+      "Sports",
+      "Auto",
+      "Weather",
+      "Tech",
+      "Politics",
+      "Entertainment",
+      "Health",
+      "General"
+    ],
     "page": {
       "articles": [
         {
