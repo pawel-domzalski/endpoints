@@ -20,7 +20,8 @@
             "uploadedDayDate": 20240824,
             "positionLift": 0,
             "isInHomePage": true,
-            "isHidden": false
+            "isHidden": false,
+            "politicalBias": 0
           },
           {
             "url": "https://www.bbc.co.uk/programmes/m001x48c",
@@ -39,7 +40,8 @@
             "uploadedDayDate": 20240824,
             "positionLift": 0,
             "isInHomePage": true,
-            "isHidden": false
+            "isHidden": false,
+            "politicalBias": 0
           },
           {
             "url": "https://www.bbc.co.uk/news/uk-england-gloucestershire-68521561",
@@ -62,7 +64,8 @@
             "uploadedDayDate": 20240824,
             "positionLift": 0,
             "isInHomePage": true,
-            "isHidden": false
+            "isHidden": false,
+            "politicalBias": 0
           },
           {
             "url": "https://www.bbc.co.uk/sport/cricket/68521385",
@@ -85,7 +88,8 @@
             "uploadedDayDate": 20240824,
             "positionLift": 0,
             "isInHomePage": true,
-            "isHidden": false
+            "isHidden": false,
+            "politicalBias": 0
           },
           {
             "url": "https://www.bbc.co.uk/news/articles/c514rx2ylvko",
@@ -104,7 +108,8 @@
             "uploadedDayDate": 20240824,
             "positionLift": 0,
             "isInHomePage": true,
-            "isHidden": false
+            "isHidden": false,
+            "politicalBias": 0
           }
         ]
       }

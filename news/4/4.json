@@ -27,7 +27,8 @@
             "uploadedDayDate": 20240824,
             "positionLift": 0,
             "isInHomePage": true,
-            "isHidden": false
+            "isHidden": false,
+            "politicalBias": 0
           },
           {
             "url": "https://www.bbc.co.uk/programmes/m001x040",
@@ -46,7 +47,8 @@
             "uploadedDayDate": 20240824,
             "positionLift": 0,
             "isInHomePage": true,
-            "isHidden": false
+            "isHidden": false,
+            "politicalBias": 0
           },
           {
             "url": "https://www.bbc.co.uk/news/av/uk-68521122",
@@ -69,7 +71,8 @@
             "uploadedDayDate": 20240824,
             "positionLift": 0,
             "isInHomePage": true,
-            "isHidden": false
+            "isHidden": false,
+            "politicalBias": 0
           },
           {
             "url": "https://www.bbc.co.uk/sport/football/68455036",
@@ -95,7 +98,8 @@
             "uploadedDayDate": 20240824,
             "positionLift": 0,
             "isInHomePage": true,
-            "isHidden": false
+            "isHidden": false,
+            "politicalBias": 0
           },
           {
             "url": "https://www.bbc.co.uk/iplayer/episode/m001xbrv/rugby-league-challenge-cup-2024-fifth-round-swinton-lions-v-sheffield-eagles",
@@ -118,7 +122,8 @@
             "uploadedDayDate": 20240824,
             "positionLift": 0,
             "isInHomePage": true,
-            "isHidden": false
+            "isHidden": false,
+            "politicalBias": 0
           }
         ]
       }

@@ -24,7 +24,8 @@
             "uploadedDayDate": 20240824,
             "positionLift": 0,
             "isInHomePage": true,
-            "isHidden": false
+            "isHidden": false,
+            "politicalBias": 0
           },
           {
             "url": "https://www.bbc.co.uk/news/uk-england-london-68524612",
@@ -47,7 +48,8 @@
             "uploadedDayDate": 20240824,
             "positionLift": 0,
             "isInHomePage": true,
-            "isHidden": false
+            "isHidden": false,
+            "politicalBias": 0
           },
           {
             "url": "https://www.bbc.co.uk/sport/articles/c4nk7wgeey2o",
@@ -66,7 +68,8 @@
             "uploadedDayDate": 20240824,
             "positionLift": 0,
             "isInHomePage": true,
-            "isHidden": false
+            "isHidden": false,
+            "politicalBias": 0
           },
           {
             "url": "https://www.bbc.co.uk/sport/av/rugby-union/68528294",
@@ -89,7 +92,8 @@
             "uploadedDayDate": 20240824,
             "positionLift": 0,
             "isInHomePage": true,
-            "isHidden": false
+            "isHidden": false,
+            "politicalBias": 0
           },
           {
             "url": "https://www.bbc.co.uk/news/world-europe-68528241",
@@ -121,7 +125,8 @@
             "uploadedDayDate": 20240824,
             "positionLift": 0,
             "isInHomePage": true,
-            "isHidden": false
+            "isHidden": false,
+            "politicalBias": 0
           }
         ]
       }

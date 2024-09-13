@@ -40,7 +40,8 @@
             "uploadedDayDate": 20240824,
             "positionLift": 0,
             "isInHomePage": true,
-            "isHidden": false
+            "isHidden": false,
+            "politicalBias": 0
           },
           {
             "url": "https://www.bbc.co.uk/news/uk-wales-68520802",
@@ -63,7 +64,8 @@
             "uploadedDayDate": 20240824,
             "positionLift": 0,
             "isInHomePage": true,
-            "isHidden": false
+            "isHidden": false,
+            "politicalBias": 0
           },
           {
             "url": "https://www.bbc.co.uk/sport/articles/c89v1vx0rqzo",
@@ -82,7 +84,8 @@
             "uploadedDayDate": 20240824,
             "positionLift": 0,
             "isInHomePage": true,
-            "isHidden": false
+            "isHidden": false,
+            "politicalBias": 0
           },
           {
             "url": "https://www.cnbc.com/2024/03/10/why-walmarts-quick-success-in-gen-ai-search-should-worry-google.html",
@@ -105,7 +108,8 @@
             "uploadedDayDate": 20240824,
             "positionLift": 0,
             "isInHomePage": true,
-            "isHidden": false
+            "isHidden": false,
+            "politicalBias": 0
           },
           {
             "url": "https://www.bbc.co.uk/news/uk-northern-ireland-68529165",
@@ -128,7 +132,8 @@
             "uploadedDayDate": 20240824,
             "positionLift": 0,
             "isInHomePage": true,
-            "isHidden": false
+            "isHidden": false,
+            "politicalBias": 0
           }
         ]
       }
