@@ -47,6 +47,10 @@
               {
                 "name": "General",
                 "topicCategory": "General"
+              },
+              {
+                "name": "Top Story",
+                "topicCategory": "Top Stories"
               }
             ],
             "isVideo": false
@@ -71,6 +75,10 @@
               {
                 "name": "Sports",
                 "topicCategory": "Sports"
+              },
+              {
+                "name": "Top Story",
+                "topicCategory": "Top Stories"
               }
             ],
             "isVideo": false
@@ -95,6 +103,10 @@
               {
                 "name": "Sports",
                 "topicCategory": "Sports"
+              },
+              {
+                "name": "Top Story",
+                "topicCategory": "Top Stories"
               }
             ],
             "isVideo": false
@@ -119,6 +131,10 @@
               {
                 "name": "Tech",
                 "topicCategory": "Tech"
+              },
+              {
+                "name": "Top Story",
+                "topicCategory": "Top Stories"
               }
             ],
             "isVideo": false
@@ -143,6 +159,10 @@
               {
                 "name": "",
                 "topicCategory": ""
+              },
+              {
+                "name": "Top Story",
+                "topicCategory": "Top Stories"
               }
             ],
             "isVideo": false

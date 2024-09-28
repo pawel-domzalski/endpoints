@@ -23,6 +23,10 @@
               {
                 "name": "Politics",
                 "topicCategory": "Politics"
+              },
+              {
+                "name": "Top Story",
+                "topicCategory": "Top Stories"
               }
             ],
             "isVideo": false
@@ -47,6 +51,10 @@
               {
                 "name": "",
                 "topicCategory": ""
+              },
+              {
+                "name": "Top Story",
+                "topicCategory": "Top Stories"
               }
             ],
             "isVideo": false
@@ -71,6 +79,10 @@
               {
                 "name": "Sports",
                 "topicCategory": "Sports"
+              },
+              {
+                "name": "Top Story",
+                "topicCategory": "Top Stories"
               }
             ],
             "isVideo": false
@@ -95,6 +107,10 @@
               {
                 "name": "Sports",
                 "topicCategory": "Sports"
+              },
+              {
+                "name": "Top Story",
+                "topicCategory": "Top Stories"
               }
             ],
             "isVideo": false
@@ -119,6 +135,10 @@
               {
                 "name": "Politics",
                 "topicCategory": "Politics"
+              },
+              {
+                "name": "Top Story",
+                "topicCategory": "Top Stories"
               }
             ],
             "isVideo": false
