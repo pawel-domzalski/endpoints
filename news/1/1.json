@@ -4,7 +4,7 @@
       "ads": {
         "articleList": {
           "adPositionOffset": 2,
-          "numberOfArticlesBeforeAd": 10
+          "numberOfArticlesAfterAd": 10
         },
         "android": [
           [
