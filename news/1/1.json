@@ -1,6 +1,7 @@
 {
   "data": {
     "config": {
+      "version" : 1,
       "ads": {
         "articleList": {
           "adPositionOffset": 2,
