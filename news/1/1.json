@@ -54,7 +54,16 @@
             ],
             "mappedTopicCategoriesInTabs": [
               "Mega News"
-            ]
+            ],
+            "layoutsOrder": [
+              "classicML",
+              "classicS",
+              "classicXSL",
+              "classicM"
+            ],
+            "historicLayout": "classicM",
+            "importantLayout": "classicS",
+            "unimportantCoverLayout": "classicXS"
           },
           {
             "labelName": "Sports",
@@ -67,7 +76,16 @@
               "Sports",
               "Entertainment"
             ],
-            "mappedTopicCategoriesInTabs": []
+            "mappedTopicCategoriesInTabs": [],
+            "layoutsOrder": [
+              "classicML",
+              "classicS",
+              "classicXSL",
+              "classicM"
+            ],
+            "historicLayout": "classicM",
+            "importantLayout": "classicS",
+            "unimportantCoverLayout": "classicXS"
           }
         ]
       }
