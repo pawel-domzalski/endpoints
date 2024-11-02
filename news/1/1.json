@@ -32,6 +32,19 @@
           ]
         ]
       },
+      "layouts": {
+        "articleList": {
+          "order": [
+            "classicML",
+            "classicS",
+            "classicXSL",
+            "classicM"
+          ],
+          "historic": "classicM",
+          "important": "classicS",
+          "unimportantCover": "classicXS"
+        }
+      },
       "bottomNav": {
         "items": [
           {
@@ -54,16 +67,7 @@
             ],
             "mappedTopicCategoriesInTabs": [
               "Mega News"
-            ],
-            "layoutsOrder": [
-              "classicML",
-              "classicS",
-              "classicXSL",
-              "classicM"
-            ],
-            "historicLayout": "classicM",
-            "importantLayout": "classicS",
-            "unimportantCoverLayout": "classicXS"
+            ]
           },
           {
             "labelName": "Sports",
@@ -76,16 +80,7 @@
               "Sports",
               "Entertainment"
             ],
-            "mappedTopicCategoriesInTabs": [],
-            "layoutsOrder": [
-              "classicML",
-              "classicS",
-              "classicXSL",
-              "classicM"
-            ],
-            "historicLayout": "classicM",
-            "importantLayout": "classicS",
-            "unimportantCoverLayout": "classicXS"
+            "mappedTopicCategoriesInTabs": []
           }
         ]
       }
