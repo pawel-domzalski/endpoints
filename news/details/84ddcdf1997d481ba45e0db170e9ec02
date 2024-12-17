@@ -2,8 +2,6 @@
   "data": {
     "details": {
       "articleId": "84ddcdf1997d481ba45e0db170e9ec02",
-      "title": "Why Walmart’s quick success in generative AI search should have Google worried",
-      "description": "Walmart CEO Doug McMillon has talked up the retail company’s generative AI search capabilities, one more threat to Alphabet’s internet dominance..",
       "sourceDomain": "cnbc.com",
       "paywall": false,
       "pubDate": "2024-03-10T15:41:48+00:00",
@@ -30,6 +28,16 @@
         }
       ],
       "content": [
+        {
+          "type": "header",
+          "text": "Why Walmart’s quick success in generative AI search should have Google worried"
+        },
+        {
+          "type": "image",
+          "url": "https://image.cnbcfm.com/api/v1/image/107385002-1709924622879-gettyimages-1914794759-CES_2024.jpeg?v=1709924657&w=1260&h=709&ffmt=webp&vtcrop=y",
+          "description": "Doug McMillon, chief executive officer of Walmart Inc., left, and Satya Nadella, chief executive officer of Microsoft Corp., during the 2024 CES event in Las Vegas, Nevada, US, on Tuesday, Jan. 9, 2024.",
+          "source": "Bloomberg | Bloomberg | Getty Images"
+        },
         {
           "type": "video",
           "videoUrl": "https://hlsvod.dw.com/i/dwtv_video/flv/je/je20241128_QDEPORTATION_InsCorrect_,AVC_480x270,AVC_512x288,AVC_640x360,AVC_960x540,AVC_1280x720,AVC_1920x1080,.mp4.csmil/master.m3u8"
@@ -59,12 +67,6 @@
               "text": "app"
             }
           ]
-        },
-        {
-          "type": "image",
-          "url": "https://image.cnbcfm.com/api/v1/image/107385002-1709924622879-gettyimages-1914794759-CES_2024.jpeg?v=1709924657&w=1260&h=709&ffmt=webp&vtcrop=y",
-          "description": "Doug McMillon, chief executive officer of Walmart Inc., left, and Satya Nadella, chief executive officer of Microsoft Corp., during the 2024 CES event in Las Vegas, Nevada, US, on Tuesday, Jan. 9, 2024.",
-          "source": "Bloomberg | Bloomberg | Getty Images"
         }
       ]
     }
