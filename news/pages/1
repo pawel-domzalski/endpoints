@@ -3,9 +3,14 @@
     "config": {
       "version": 1,
       "ads": {
-        "articleList": {
-          "adPositionOffset": 2,
-          "numberOfArticlesAfterAd": 10
+        "portrait": {
+          "articleList": {
+            "adPositionOffset": 2,
+            "numberOfArticlesAfterAd": 10
+          },
+          "articleDetails": {
+            "numberOfParagraphsBeforeAd": 1
+          }
         },
         "android": [
           [
@@ -33,16 +38,18 @@
         ]
       },
       "layouts": {
-        "articleList": {
-          "order": [
-            "classicML",
-            "classicS",
-            "classicXSL",
-            "classicM"
-          ],
-          "historic": "classicM",
-          "important": "classicS",
-          "unimportantCover": "classicXS"
+        "portrait": {
+          "articleList": {
+            "order": [
+              "classicML",
+              "classicS",
+              "classicXSL",
+              "classicM"
+            ],
+            "historic": "classicM",
+            "important": "classicS",
+            "unimportantCover": "classicXS"
+          }
         }
       },
       "bottomNav": {
